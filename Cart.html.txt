@@ -9,7 +9,7 @@
   <h1>Your Cart</h1>
   <ul id="cartList"></ul>
 
-  <p><a href="catalogue.html">Back to Catalogue</a></p>
+  <p><a href="cart.html">Back to Catalogue</a></p>
 
   <script>
     // Retrieve cart data from localStorage
@@ -30,3 +30,4 @@
   </script>
 </body>
 </html>
+
